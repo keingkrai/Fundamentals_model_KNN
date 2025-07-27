@@ -18,9 +18,7 @@
 - `scikit-learn` – สำหรับสร้างโมเดลและประเมินผล
 - `joblib` – สำหรับบันทึกโมเดล
 
-## ⚙️ ขั้นตอนการทำงาน
-
-1. **ติดตั้งไลบรารี**
+**ติดตั้งไลบรารี**
 
 ```bash
 pip install pandas seaborn scikit-learn joblib
